@@ -1,6 +1,8 @@
 # Welcome to the c-result-type wiki!
 
-This project aims to provide a Golang-like error as values experience in C. The main goal is to provide a way to handle errors in a more expressive way, without the need to use the errno variable, the return value of the function or argument pointers to check if it was successful. You can check out the blog post discussing this topic at [this link](https://igormauricio.com/Embedded-Systems/Errors-as-values-in-C,-the-Golang-way)
+This project aims to provide a Golang-like error as values experience in C. The main goal is to provide a way to handle errors in a more expressive way, without the need to use the errno variable, the return value of the function or argument pointers to check if it was successful. 
+
+You can check out the blog post discussing this topic at [this link](https://igormauricio.com/Embedded-Systems/Errors-as-values-in-C,-the-Golang-way)
 
 
 ## Quick Start
